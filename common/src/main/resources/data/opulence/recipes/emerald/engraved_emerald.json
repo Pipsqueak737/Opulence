@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "opulence:cut_emerald_slab"
+    }
+  },
+  "result": {
+    "item": "opulence:engraved_emerald"
+  }
+}

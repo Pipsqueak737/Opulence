@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "opulence:cut_gold"
+  },
+  "result": "opulence:cut_gold_stairs",
+  "count": 1
+}

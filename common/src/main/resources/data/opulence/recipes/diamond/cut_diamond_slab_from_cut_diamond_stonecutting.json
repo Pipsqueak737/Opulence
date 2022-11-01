@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "opulence:cut_diamond"
+  },
+  "result": "opulence:cut_diamond_slab",
+  "count": 2
+}

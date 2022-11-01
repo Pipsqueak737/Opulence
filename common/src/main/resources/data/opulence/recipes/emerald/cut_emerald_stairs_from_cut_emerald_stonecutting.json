@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "opulence:cut_emerald"
+  },
+  "result": "opulence:cut_emerald_stairs",
+  "count": 1
+}

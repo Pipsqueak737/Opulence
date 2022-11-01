@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "opulence:block/emerald_pillar_top",
+    "side": "opulence:block/emerald_pillar"
+  }
+}

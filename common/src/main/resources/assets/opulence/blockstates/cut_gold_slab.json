@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "opulence:block/cut_gold_slab"
+    },
+    "type=double": {
+      "model": "opulence:block/cut_gold"
+    },
+    "type=top": {
+      "model": "opulence:block/cut_gold_slab_top"
+    }
+  }
+}

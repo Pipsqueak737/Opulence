@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "opulence:block/cut_emerald_slab"
+    },
+    "type=double": {
+      "model": "opulence:block/cut_emerald"
+    },
+    "type=top": {
+      "model": "opulence:block/cut_emerald_slab_top"
+    }
+  }
+}

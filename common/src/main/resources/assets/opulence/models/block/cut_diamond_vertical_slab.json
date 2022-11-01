@@ -1,0 +1,8 @@
+{
+    "parent": "blueprint:block/vertical_slab",
+    "textures": {
+        "bottom": "opulence:block/cut_diamond",
+        "top": "opulence:block/cut_diamond",
+        "side": "opulence:block/cut_diamond"
+    }
+}

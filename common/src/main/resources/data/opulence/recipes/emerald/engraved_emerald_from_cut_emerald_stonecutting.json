@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "opulence:cut_emerald"
+  },
+  "result": "opulence:engraved_emerald",
+  "count": 1
+}

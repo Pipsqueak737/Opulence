@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "opulence:block/cut_emerald",
+    "top": "opulence:block/cut_emerald",
+    "side": "opulence:block/cut_emerald"
+  }
+}

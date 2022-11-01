@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "type=north": { "model": "opulence:block/cut_emerald_vertical_slab", "y": 0, "uvlock": true },
+        "type=south": { "model": "opulence:block/cut_emerald_vertical_slab", "y": 180, "uvlock": true },
+        "type=east": { "model": "opulence:block/cut_emerald_vertical_slab", "y": 90, "uvlock": true },
+        "type=west": { "model": "opulence:block/cut_emerald_vertical_slab", "y": 270, "uvlock": true },
+        "type=double": { "model": "opulence:block/cut_emerald" }
+    }
+}

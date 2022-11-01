@@ -29,6 +29,8 @@ dependencies {
 
     modApi("gg.moonflower:pollen-forge:1.5.0+1.18.2") { transitive = false }
 
+    modRuntimeOnly "curse.maven:catalogue-459701:3803098"
+
     common(project(path: ":common", configuration: "namedElements")) { transitive false }
     shadowCommon(project(path: ":common", configuration: "transformProductionForge")) { transitive = false }
 }
@@ -37,6 +39,10 @@ repositories {
     maven {
         name "Moonflower Repo"
         url "https://repo.moonflower.gg/releases"
+    }
+    maven {
+        name "Curse Maven"
+        url "https://cursemaven.com"
     }
 }
 

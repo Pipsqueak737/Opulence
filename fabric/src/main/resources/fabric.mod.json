@@ -16,7 +16,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.opulence.fabric.opulenceFabric"
+      "pipsqueak737.fabric.core.OpulenceFabric"
     ]
   },
   "depends": {

@@ -7,11 +7,11 @@ license = "Insert License Here"
 modId = "opulence"
 version = "${version}"
 displayName = "Opulence"
-authors = "Me!"
+authors = "Pipsqueak737"
 description = '''
-This is an example description! Tell everyone what your mod is about!
+Adds new decorative variants of expensive blocks like gold, diamond, and emerald!
 '''
-#logoFile = ""
+logoFile = "logo.png"
 
 [[dependencies.opulence]]
 modId = "forge"

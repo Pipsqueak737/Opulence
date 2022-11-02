@@ -25,6 +25,9 @@ dependencies {
 
     modApi("gg.moonflower:pollen-fabric:1.5.0+1.18.2") { transitive = false }
 
+    modRuntimeOnly "curse.maven:modmenu-308702:3850113"
+    modRuntimeOnly "curse.maven:jei-238222:4061554"
+
     common(project(path: ":common", configuration: "namedElements")) { transitive false }
     shadowCommon(project(path: ":common", configuration: "transformProductionFabric")) { transitive false }
 }
@@ -33,6 +36,10 @@ repositories {
     maven {
         name "Moonflower Repo"
         url "https://repo.moonflower.gg/releases"
+    }
+    maven {
+        name "Curse Maven"
+        url "https://cursemaven.com"
     }
 }
 

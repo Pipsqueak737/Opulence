@@ -1,6 +1,6 @@
 modLoader = "javafml"
 loaderVersion = "[40,)"
-#issueTrackerURL = ""
+issueTrackerURL = "https://github.com/Pipsqueak737/Opulence/issues"
 license = "GPLv3"
 
 [[mods]]

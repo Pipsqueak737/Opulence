@@ -2,14 +2,13 @@
   "schemaVersion": 1,
   "id": "opulence",
   "version": "${version}",
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Opulence",
+  "description": "Adds new decorative variants of expensive blocks like gold, diamond, and emerald!",
   "authors": [
-    "Me!"
+    "Pipsqueak737"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/Pipsqueak737/Opulence"
   },
   "license": "GPLv3",
   "icon": "assets/opulence/icon.png",

@@ -7,11 +7,11 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:gold_block"
+      "item": "minecraft:emerald_block"
     }
   },
   "result": {
-    "item": "opulence:gold_stairs",
+    "item": "opulence:emerald_stairs",
     "count": 4
   }
 }

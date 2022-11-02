@@ -11,7 +11,7 @@
     "homepage": "https://fabricmc.net/",
     "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
-  "license": "Insert License Here",
+  "license": "GPLv3",
   "icon": "assets/opulence/icon.png",
   "environment": "*",
   "entrypoints": {

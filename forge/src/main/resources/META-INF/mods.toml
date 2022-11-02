@@ -1,7 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "[40,)"
 #issueTrackerURL = ""
-license = "Insert License Here"
+license = "GPLv3"
 
 [[mods]]
 modId = "opulence"
@@ -33,3 +33,6 @@ mandatory = true
 versionRange = "[1.5.0,)"
 ordering = "AFTER"
 side = "BOTH"
+
+[modproperties.opulence]
+catalogueItemIcon = "opulence:engraved_emerald"

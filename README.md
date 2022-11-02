@@ -4,4 +4,4 @@
 ══════════════════════════════════════════════════════════
 </p>
 
-Minecraft mod adding new decorative ore blocks
+Adds new decorative variants of expensive blocks like gold, diamond, and emerald!

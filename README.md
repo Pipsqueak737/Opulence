@@ -4,4 +4,7 @@
 ══════════════════════════════════════════════════════════
 </p>
 
+<p align="center">
 Adds new decorative variants of expensive blocks like gold, diamond, and emerald!
+</p>
+

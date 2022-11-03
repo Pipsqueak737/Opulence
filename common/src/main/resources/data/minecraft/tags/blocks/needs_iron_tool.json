@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "opulence:gold_slab",
+	"opulence:gold_stairs",
+	"opulence:diamond_slab",
+	"opulence:diamond_stairs",
+	"opulence:emerald_slab",
+	"opulence:emerald_stairs",
+	"opulence:cut_gold",
+	"opulence:cut_gold_stairs",
+	"opulence:cut_gold_slab",
+	"opulence:engraved_gold",
+	"opulence:gold_pillar",
+	"opulence:cut_diamond",
+	"opulence:cut_diamond_stairs",
+	"opulence:cut_diamond_slab",
+	"opulence:engraved_diamond",
+	"opulence:diamond_pillar",
+	"opulence:cut_emerald",
+	"opulence:cut_emerald_stairs",
+	"opulence:cut_emerald_slab",
+	"opulence:engraved_emerald",
+	"opulence:emerald_pillar"
+  ]
+}

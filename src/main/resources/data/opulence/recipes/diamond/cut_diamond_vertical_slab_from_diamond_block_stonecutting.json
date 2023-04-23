@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:diamond_block"
+  },
+  "result": "opulence:cut_diamond_vertical_slab",
+  "count": 8,
+  "conditions": [
+    {
+      "type": "blueprint:quark_flag",
+      "flag": "vertical_slabs"
+    }
+  ]
+}

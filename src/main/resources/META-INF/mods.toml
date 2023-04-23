@@ -1,0 +1,38 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+issueTrackerURL = "https://github.com/Pipsqueak737/Opulence/issues"
+license="All rights reserved"
+
+[[mods]]
+modId="opulence"
+version="${file.jarVersion}"
+displayName="Opulence"
+logoFile="examplemod.png"
+credits="Thanks for this example mod goes to Java"
+authors="Pipsqueak737"
+description='''
+Mod description
+'''
+
+itemIcon="minecraft:apple" #Catalogue compat
+
+[[dependencies.opulence]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.opulence]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.opulence]]
+    modId = "blueprint"
+    mandatory = true
+    versionRange = "[<version>,)"
+    ordering = "BEFORE"
+    side = "BOTH"

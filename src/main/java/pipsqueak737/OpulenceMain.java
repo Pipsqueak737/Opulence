@@ -1,9 +1,6 @@
 package pipsqueak737;
 
 import com.mojang.logging.LogUtils;
-import com.teamabnormals.blueprint.common.item.InjectedBlockItem;
-import com.teamabnormals.blueprint.common.item.InjectedItem;
-import com.teamabnormals.blueprint.core.util.registry.BlockSubRegistryHelper;
 import com.teamabnormals.blueprint.core.util.registry.RegistryHelper;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
@@ -13,7 +10,6 @@ import net.minecraftforge.fml.event.lifecycle.InterModProcessEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 import pipsqueak737.registry.OpulenceBlocks;
-import pipsqueak737.registry.OpulenceItems;
 
 @Mod(OpulenceMain.MOD_ID)
 
@@ -31,7 +27,6 @@ public class OpulenceMain
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::enqueueIMC);
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::processIMC);
 
-        OpulenceItems.ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
         OpulenceBlocks.BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());
 
         REGISTRY_HELPER.register(FMLJavaModLoadingContext.get().getModEventBus());

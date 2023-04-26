@@ -1,38 +1,38 @@
-modLoader="javafml"
-loaderVersion="[40,)"
+modLoader = "javafml"
+loaderVersion = "[43,)"
 issueTrackerURL = "https://github.com/Pipsqueak737/Opulence/issues"
-license="All rights reserved"
+license = "GPLv3"
 
 [[mods]]
-modId="opulence"
-version="${file.jarVersion}"
-displayName="Opulence"
-logoFile="examplemod.png"
-credits="Thanks for this example mod goes to Java"
-authors="Pipsqueak737"
-description='''
-Mod description
+modId = "opulence"
+version = "0.1.2"
+displayName = "Opulence"
+authors = "Pipsqueak737"
+description = '''
+Adds new decorative variants of expensive blocks like gold, diamond, and emerald!
 '''
-
-itemIcon="minecraft:apple" #Catalogue compat
+logoFile = "logo.png"
 
 [[dependencies.opulence]]
     modId="forge"
     mandatory=true
-    versionRange="[40,)"
+    versionRange="[43,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.opulence]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.18.2,1.19)"
+    versionRange="[1.19.2,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.opulence]]
     modId = "blueprint"
     mandatory = true
-    versionRange = "[<version>,)"
+    versionRange = "[1.19.2,)"
     ordering = "BEFORE"
     side = "BOTH"
+
+[modproperties.opulence]
+catalogueItemIcon = "opulence:engraved_emerald"

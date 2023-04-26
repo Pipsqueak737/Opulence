@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "opulence:gold_slab",
+	"opulence:gold_stairs",
+	"opulence:cut_gold",
+	"opulence:cut_gold_slab",
+	"opulence:cut_gold_stairs",
+	"opulence:engraved_gold",
+	"opulence:gold_pillar"
+  ]
+}

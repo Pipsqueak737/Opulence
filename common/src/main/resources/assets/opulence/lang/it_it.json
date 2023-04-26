@@ -1,0 +1,25 @@
+{
+	"block.opulence.gold_stairs": "Scalini d'oro",
+	"block.opulence.gold_slab": "Lastra d'oro",
+	"block.opulence.cut_gold": "Oro inciso",
+	"block.opulence.cut_gold_stairs": "Scalini d'oro inciso",
+	"block.opulence.cut_gold_slab": "Lastra d'oro inciso",
+	"block.opulence.engraved_gold": "Oro impresso",
+	"block.opulence.gold_pillar": "Pilastro d'oro",
+	
+	"block.opulence.diamond_stairs": "Scalini di diamante",
+	"block.opulence.diamond_slab": "Lastra di diamante",
+	"block.opulence.cut_diamond": "Diamante inciso",
+	"block.opulence.cut_diamond_stairs": "Scalini di diamante inciso",
+	"block.opulence.cut_diamond_slab": "Lastra di diamante inciso",
+	"block.opulence.engraved_diamond": "Diamante impresso",
+	"block.opulence.diamond_pillar": "Pilastro di diamante",
+	
+	"block.opulence.emerald_stairs": "Scalini di smeraldo",
+	"block.opulence.emerald_slab": "Lastra di smeraldo",
+	"block.opulence.cut_emerald": "Smeraldo inciso",
+	"block.opulence.cut_emerald_stairs": "Scalini di smeraldo inciso",
+	"block.opulence.cut_emerald_slab": "Lastra di smeraldo inciso",
+	"block.opulence.engraved_emerald": "Smeraldo impresso",
+	"block.opulence.emerald_pillar": "Pilastro di smeraldo"
+}
